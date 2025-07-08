@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Accredited Hospitals Map</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 20px;
+    }
+    iframe {
+      width: 100%;
+      height: 80vh;
+      border: none;
+    }
+  </style>
+</head>
+<body>
+  <h1>📍 Accredited Hospitals Near You</h1>
+  <p>Tap the 📍 "My Location" button on the map to see the hospitals closest to you.</p>
+
+  <!-- Replace the link below with YOUR Google My Maps embed link -->
+  <iframe src="https://www.google.com/maps/d/embed?mid=1dftnwORsZWmw36tkQ_p5EZvat5vOM4Y&ehbc=2E312F" width="640" height="480"></iframe>
+</body>
+</html>
